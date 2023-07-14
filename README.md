@@ -1,30 +1,42 @@
-### Olá! Eu sou o Daniel Martinz
-<div style="display: inline_block"><br>
-<div>  
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=dmtnz&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=dmtnz&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=dmtnz&show_icons=true" />
-</picture>
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmtnz&layout=compact&langs_count=168theme=dark"/>
-</div>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/denielmartns/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:denielmartnz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-daniel-martins-feitosa-8244461b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+# Sobre Mim
+
+Olá, bem-vindo(a) ao meu perfil do GitHub! 👋 Sou Daniel Martins, um entusiasta da tecnologia e apaixonado por programação. 
+
+## Sobre
+
+- 💻 Atualmente, estou focado em me tornar um desenvolvedor Front-End.
+- 🌱 Estou constantemente estudando e aprimorando minhas habilidades em HTML, CSS, Tailwind, JavaScript e React.
+- 👀Estou procurando uma oportunidade remota como desenvolvedor front-end, então se você estiver procurando por alguém, me avise! Será um prazer falar com você.
+- 📫 Você pode me contatar através do meu e-mail [denielmartnz@gmail.com] ou conectar-se comigo no [LinkedIn]((https://www.linkedin.com/in/victor-daniel-martins-feitosa-8244461b9/)).
+
+## Habilidades
+
+Aqui estão algumas das tecnologias e linguagens de programação com as quais tenho experiência/estou estudando:
+
+- Linguagens de programação: [JavaScript]
+- Frameworks e bibliotecas: [Tailwindcss]
+- Ferramentas e ambientes: [Visual Studio Code]
+
+## Projetos
+
+- [Badgelab](link para o projeto): site de criação de crachas para empresas e eventos.
+- em breve mais projetos ...
+
+Fique à vontade para explorar meus repositórios para ver mais projetos e contribuições.
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=denieldev&show_icons=true&theme=radical)
+
+## Contribuições
+
+- 🤝 Aceito sugestões e contribuições para meus próprios projetos.
+
+## Interesses
+
+- Além da programação, tenho interesse em [lista de interesses].
+- Em meu tempo livre, gosto de [ir a academia 💪🏻 e jogar com amigos 🎮].
+
+Sinta-se à vontade para entrar em contato comigo ou se conectar nas redes sociais acima. Adoraria conhecer outras pessoas apaixonadas por tecnologia e compartilhar conhecimento!
+
+Obrigado por visitar meu perfil do GitHub! 🌟
