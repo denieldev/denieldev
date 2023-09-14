@@ -13,9 +13,9 @@ Olá, bem-vindo(a) ao meu perfil do GitHub! 👋 Sou Daniel Martins, um entusias
 
 Aqui estão algumas das tecnologias e linguagens de programação com as quais tenho experiência/estou estudando:
 
-- Linguagens de programação: [JavaScript]
-- Frameworks e bibliotecas: [Tailwindcss]
-- Ferramentas e ambientes: [Visual Studio Code]
+- Linguagens de programação: JavaScript
+- Frameworks e bibliotecas: Tailwindcss
+- Ferramentas e ambientes: Visual Studio Code
 
 ## Projetos
 
@@ -24,19 +24,19 @@ Aqui estão algumas das tecnologias e linguagens de programação com as quais t
 
 Fique à vontade para explorar meus repositórios para ver mais projetos e contribuições.
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=denieldev&show_icons=true&theme=radical)
-
 ## Contribuições
 
 - 🤝 Aceito sugestões e contribuições para meus próprios projetos.
 
-## Interesses
+## Hobbies
+- Em meu tempo livre, gosto de ir a academia 💪🏻 e jogar com amigos 🎮.
 
-- Além da programação, tenho interesse em [lista de interesses].
-- Em meu tempo livre, gosto de [ir a academia 💪🏻 e jogar com amigos 🎮].
+## Contato
 
-Sinta-se à vontade para entrar em contato comigo ou se conectar nas redes sociais acima. Adoraria conhecer outras pessoas apaixonadas por tecnologia e compartilhar conhecimento!
+- GitHub: denieldev(https://github.com/denieldev/denieldev)
+- LinkedIn: Daniel Martins (https://www.linkedin.com/in/victor-daniel-martins-feitosa-8244461b9/)
+- Email: denielmartnz@gmail.com
 
-Obrigado por visitar meu perfil do GitHub! 🌟
+Fique à vontade para entrar em contato comigo para discutir projetos interessantes, colaborações ou apenas para trocar ideias! Estou sempre aberto(a) a novas conexões e oportunidades.
+
+Obrigado por visitar meu perfil no GitHub! 🌟
