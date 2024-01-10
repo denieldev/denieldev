@@ -6,14 +6,14 @@ Olá, bem-vindo(a) ao meu perfil do GitHub! 👋 Sou Daniel Martins, um entusias
 
 - 💻 Atualmente, estou focado em me tornar um desenvolvedor Front-End.
 - 🌱 Estou constantemente estudando e aprimorando minhas habilidades em HTML, CSS, Tailwind, JavaScript e React.
-- 👀Estou procurando uma oportunidade remota como desenvolvedor front-end, então se você estiver procurando por alguém, me avise! Será um prazer falar com você.
+- 👀Estou procurando uma oportunidade de trabalho como desenvolvedor, então se você estiver procurando por alguém, me avise! Será um prazer falar com você.
 - 📫 Você pode me contatar através do meu e-mail [denielmartnz@gmail.com] ou conectar-se comigo no [LinkedIn]((https://www.linkedin.com/in/victor-daniel-martins-feitosa-8244461b9/)).
 
 ## Habilidades
 
 Aqui estão algumas das tecnologias e linguagens de programação com as quais tenho experiência/estou estudando:
 
-- Linguagens de programação: JavaScript
+- Linguagens de programação: JavaScript e PHP
 - Frameworks e bibliotecas: Tailwindcss
 - Ferramentas e ambientes: Visual Studio Code
 
